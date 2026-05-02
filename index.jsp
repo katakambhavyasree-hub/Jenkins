@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple JSP Project</title>
+    <title> JSP Project</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
